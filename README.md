@@ -1,3 +1,15 @@
+#Screens
+
+##Admin screen
+![Test Image 7](https://github.com/lperisicz/lv5_nwp/blob/master/resources/screens/admin_users.png?raw=true)
+##Dodavanje radova
+![Test Image 7](https://github.com/lperisicz/lv5_nwp/blob/master/resources/screens/prof_add_task.png?raw=true)
+##Prijava rada
+![Test Image 7](https://github.com/lperisicz/lv5_nwp/blob/master/resources/screens/student_task_list.png?raw=true)
+##Pregled radova profesora
+![Test Image 7](https://github.com/lperisicz/lv5_nwp/blob/master/resources/screens/task_list.png?raw=true)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
